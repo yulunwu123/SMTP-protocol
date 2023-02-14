@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2503e8f7-2738-4d6b-b52e-4205796b9b26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMTPClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example-exchange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/.idea/web-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/Hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/UVA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/Webserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-server/Webserver1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socket/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../socket/server.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LTtBKetp5q2FBzmI6bcaq6X2jC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/example-exchange" />
+      <recent name="$PROJECT_DIR$/../example-exchange" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2503e8f7-2738-4d6b-b52e-4205796b9b26" name="Changes" comment="" />
+      <created>1675906763570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675906763570</updated>
+    </task>
+    <servers />
+  </component>
+</project>
